@@ -23,7 +23,7 @@ CyberHero s'adresse aux Grandes Entreprises ou Collectivités Territoriales (500
 - **🦠 Risque Cyber :** Très élevé. Il est la cible parfaite pour le Spear Phishing (harponnage) car il manipule des données sensibles.
 - **💰 Intérêt pour lui :** Gagner du temps en apprenant des raccourcis sécurisés et briller auprès de la direction grâce à son score CyberHero.
 
-# 🧠 SWOT
+## 🧠 SWOT
 **Strengths :**
 - 🧩 Gamification : rend la sécurité ludique.
 - 💍 Engagement direct des employés.
