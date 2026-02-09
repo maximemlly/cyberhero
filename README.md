@@ -14,28 +14,3 @@ L'idée centrale est de faire passer l'utilisateur du statut de "victime potenti
 
 ## 🎯 À qui CyberHero s'adresse-t-il ?
 CyberHero s'adresse aux Grandes Entreprises ou Collectivités Territoriales (500+ collaborateurs) souhaitant renforcer leur résilience face aux ransomware et à l'ingénierie sociale sans alourdir ses processus de travail.
-
-## 👤 Notre persona
-### Marc, Manager Commercial
-- **🪪 Profil :** 45 ans, toujours entre deux rendez-vous, travaille souvent sur des réseaux Wi-Fi publics (hôtels, trains).
-- **🥅 Objectifs :** Atteindre ses objectifs de vente, gérer son équipe, répondre vite aux clients.
-- **💢 Frustrations :** Les mots de passe complexes qu'il oublie, les mises à jour logicielles qui ralentissent son PC le matin.
-- **🦠 Risque Cyber :** Très élevé. Il est la cible parfaite pour le Spear Phishing (harponnage) car il manipule des données sensibles.
-- **💰 Intérêt pour lui :** Gagner du temps en apprenant des raccourcis sécurisés et briller auprès de la direction grâce à son score CyberHero.
-
-## 🧠 SWOT
-**Strengths :**
-- 🧩 Gamification : rend la sécurité ludique.
-- 💍 Engagement direct des employés.
-
-**Weaknesses :**
-- 💵 Coût de développement initial.
-- 🔄 Nécessite une mise à jour constante des défis.
-
-**Opportunities :**
-- 🎣 Réduction drastique des incidents liés au phishing.
-- 🛡️ Mise en conformité RGPD facilitée.
-
-**Threats :**
-- 📉 Lassitude des utilisateurs sur le long terme.
-- 🎯 Risque que l'outil soit lui-même une cible.
